@@ -5,6 +5,8 @@ import { Footer } from "@/components/layout/footer";
 import SmoothScroll from "@/components/providers/smooth-scroll";
 import { NavProvider } from "@/components/ui/overlay-nav";
 import { Cursor } from "@/components/ui/cursor";
+import { IntroLoader } from "@/components/ui/intro-loader";
+import { MobileActionBar } from "@/components/layout/mobile-action-bar";
 import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -14,9 +16,6 @@ export const metadata: Metadata = {
     template: "%s | Black Screen Media",
   },
   description: siteConfig.seoDescription,
-  alternates: {
-    canonical: "/",
-  },
   openGraph: {
     type: "website",
     locale: "en_IN",
@@ -126,9 +125,11 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           <Header />
           <main className="flex flex-1 flex-col pt-16 sm:pt-20">{children}</main>
           <Footer />
+          <MobileActionBar />
           <OrganizationJsonLd />
           <LocalBusinessJsonLd />
         </NavProvider>
+        <IntroLoader />
       </body>
     </html>
   );

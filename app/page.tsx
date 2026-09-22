@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import { Hero } from "@/components/home/hero";
 import { ProofStrip } from "@/components/home/proof-strip";
 import { ClientWall } from "@/components/home/client-wall";
@@ -12,8 +13,13 @@ import { Faq } from "@/components/home/faq";
 import { InstagramFeed } from "@/components/home/instagram-feed";
 import { InsightsTeaser } from "@/components/home/insights";
 import { CtaBand } from "@/components/home/cta-band";
+import { LeadPopup } from "@/components/lead/lead-popup";
 
 export const dynamic = "force-dynamic";
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/" },
+};
 
 export default function Home() {
   return (
@@ -32,6 +38,7 @@ export default function Home() {
       <InstagramFeed />
       <InsightsTeaser />
       <CtaBand />
+      <LeadPopup />
     </div>
   );
 }

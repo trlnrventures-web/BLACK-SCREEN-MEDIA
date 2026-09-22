@@ -3,6 +3,7 @@ export const siteConfig = {
   url: "https://blackscreenmedia.in",
   email: "hello@blackscreenmedia.in",
   phone: "+91 77588 80078",
+  phoneRaw: "917758880078",
   phoneHref: "tel:+917758880078",
   city: "Vasai West, Maharashtra, India",
   address: "B-102, Lawrence Trade Center, KT Vision, Vasai West, Maharashtra 401202, India",
@@ -17,3 +18,7 @@ export const siteConfig = {
     { label: "LinkedIn", href: "https://in.linkedin.com/company/blackscreenmedia" },
   ],
 } as const;
+
+export function whatsappLink(text: string): string {
+  return `https://wa.me/${siteConfig.phoneRaw}?text=${encodeURIComponent(text)}`;
+}

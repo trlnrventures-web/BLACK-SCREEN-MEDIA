@@ -4,6 +4,7 @@ import { Heading } from "@/components/ui/heading";
 import { Reveal } from "@/components/ui/reveal";
 import { Button } from "@/components/ui/button";
 import { ServicesGrid } from "@/components/work/services-grid";
+import { D2cCapabilities } from "@/components/services/d2c-capabilities";
 
 export const metadata: Metadata = {
   title: "Services",
@@ -46,6 +47,8 @@ export default function ServicesPage() {
           <ServicesGrid />
         </Container>
       </section>
+
+      <D2cCapabilities />
 
       <section className="border-t border-gray-500 py-20 sm:py-28">
         <Container className="flex max-w-3xl flex-col items-start sm:items-center sm:text-center">

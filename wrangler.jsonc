@@ -13,5 +13,15 @@
 			"binding": "BSM_KV",
 			"id": "01864862bf964249add42be412cd5711"
 		}
+	],
+	"routes": [
+		{
+			"pattern": "blackscreenmedia.in",
+			"custom_domain": true
+		},
+		{
+			"pattern": "www.blackscreenmedia.in",
+			"custom_domain": true
+		}
 	]
 }
