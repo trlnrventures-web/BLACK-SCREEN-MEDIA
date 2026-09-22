@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "stallions-reels",
+    "client": "Stallions",
+    "industry": "Real Estate",
+    "services": ["content-production", "social-media-management"],
+    "year": "2026",
+    "summary": "Multiple projects sold through organic content alone",
+    "cover": "linear-gradient(135deg, #C10801 0%, #F16001 55%, #D9C3AB 100%)",
+    "featured": true,
+    "hero": {
+      "type": "image",
+      "src": "",
+      "alt": "Stallions reel campaign key visual"
+    },
+    "challenge": "Stallions had projects to sell and a sales funnel that depended entirely on portal leads and broker networks. With every other developer in the Vasai-Virar belt shouting the same promises, their inventory needed a direct line to buyers that didn't cut brokers out of the picture or burn the marketing budget on generic ads.",
+    "approach": [
+      "Built a reels-first content engine around site walkthroughs, construction updates, and possession-ready reveals. This is what buyers actually ask.",
+      "Ran a consistent posting cadence across Instagram and Facebook so the project stayed in feed while buyers were still deciding.",
+      "Tied every reel to an enquiry path: DM, WhatsApp, and a landing form. Views had somewhere to become site visits."
+    ],
+    "gallery": [
+      { "type": "image", "src": "", "alt": "Site walkthrough reel series" },
+      { "type": "image", "src": "", "alt": "Construction update cuts" },
+      { "type": "video", "src": "", "alt": "Possession-ready reveal film" },
+      { "type": "image", "src": "", "alt": "Enquiry-driven landing flow" }
+    ],
+    "results": [],
+    "testimonial": null
+  },
+  {
+    "slug": "akmas-perfumes",
+    "client": "Akmas Perfumes",
+    "industry": "D2C / Beauty",
+    "services": ["branding-packaging", "content-production", "performance-marketing"],
+    "year": "2025",
+    "summary": "₹50L in sales within 9 months, now live in the UK",
+    "cover": "linear-gradient(160deg, #0A0A0A 0%, #F16001 60%, #E85002 100%)",
+    "featured": true,
+    "hero": {
+      "type": "image",
+      "src": "",
+      "alt": "Akmas Perfumes brand and packaging system"
+    },
+    "challenge": "Akmas Perfumes started at zero, a new fragrance brand with no shelf presence, no audience, and no proven demand. In a category ruled by legacy names and influencer noise, it needed an identity, packaging, and launch system strong enough to earn its first buyers and then keep them coming back.",
+    "approach": [
+      "Designed the brand and packaging end to end: identity, bottle and box system, and unboxing moments built for content.",
+      "Launched with a product page, creative library, and Meta campaigns structured around sampling and repeat purchase, not one-off clicks.",
+      "Iterated weekly on creative and audiences, reinvesting into the angles that converted until the brand could expand internationally."
+    ],
+    "gallery": [
+      { "type": "image", "src": "", "alt": "Packaging & identity system" },
+      { "type": "image", "src": "", "alt": "Product photography set" },
+      { "type": "video", "src": "", "alt": "Launch campaign cuts" },
+      { "type": "image", "src": "", "alt": "Performance creative library" }
+    ],
+    "results": [
+      { "value": 50, "suffix": "L", "label": "₹ sales in the first 9 months", "decimals": 0 },
+      { "value": 9, "suffix": "mo", "label": "From launch to ₹50L", "decimals": 0 },
+      { "value": 2, "suffix": "", "label": "Markets live, India & UK", "decimals": 0 }
+    ],
+    "testimonial": null
+  },
+  {
+    "slug": "mansarovar-group",
+    "client": "Mansarovar Group",
+    "industry": "Real Estate",
+    "services": ["branding-packaging", "content-production", "performance-marketing", "real-estate-lead-generation"],
+    "year": "2024",
+    "summary": "Three-year retained partnership driving continuous leads",
+    "cover": "linear-gradient(200deg, #F16001 0%, #C10801 60%, #D9C3AB 120%)",
+    "featured": true,
+    "hero": {
+      "type": "image",
+      "src": "",
+      "alt": "Mansarovar Group brand campaigns for Ariana and Pearl Gardens"
+    },
+    "challenge": "Mansarovar Group was launching and sustaining multiple projects, Ariana and Pearl Gardens among them, while juggling brokers, hoardings, events, and a sales team that needed a steady stream of warm buyers, not campaign-season bursts followed by silence.",
+    "approach": [
+      "Took ownership of the brand and lead-gen mandate across projects: creative, campaigns, and CRM, as a retained partner rather than a per-campaign vendor.",
+      "Ran always-on Meta campaigns and branding for Ariana and Pearl Gardens, supported by hoardings, events, and content that kept projects top of mind.",
+      "Wired leads into the group's CRM with source tagging and follow-up workflows so the sales team always knew where every buyer came from."
+    ],
+    "gallery": [
+      { "type": "image", "src": "", "alt": "Project brand systems" },
+      { "type": "image", "src": "", "alt": "Hoarding & outdoor campaign" },
+      { "type": "image", "src": "", "alt": "Site event coverage" },
+      { "type": "video", "src": "", "alt": "Project film cuts" }
+    ],
+    "results": [
+      { "value": 3, "suffix": "yr", "label": "Retained partnership", "decimals": 0 },
+      { "value": 2, "suffix": "", "label": "Flagship projects, Ariana & Pearl Gardens", "decimals": 0 },
+      { "value": 365, "suffix": "", "label": "Days a year of continuous leads", "decimals": 0 }
+    ],
+    "testimonial": null
+  },
+  {
+    "slug": "real-estate-content-partner",
+    "client": "Real Estate Content Partner",
+    "industry": "Real Estate",
+    "services": ["content-production", "social-media-management", "real-estate-lead-generation"],
+    "year": "2026",
+    "summary": "30+ real estate clients trust us for content",
+    "cover": "linear-gradient(120deg, #D9C3AB 0%, #E85002 70%, #0A0A0A 100%)",
+    "featured": false,
+    "hero": {
+      "type": "image",
+      "src": "",
+      "alt": "Content produced for real estate developers across Mumbai and Vasai-Virar"
+    },
+    "challenge": "Across the Mumbai real estate belt, developers face the same problem: projects launch, budgets go to portals and brokers, and the brand itself never builds an audience. When the campaign ends, so does the pipeline.",
+    "approach": [
+      "Standardised a content system that works project after project: walkthroughs, construction updates, possession reveals, and site-event coverage.",
+      "Combined organic content with paid amplification so every project gets both compounding reach and measurable enquiries.",
+      "Handed developers a single partner for content, social, and lead follow-up instead of three vendors pointing at each other."
+    ],
+    "gallery": [
+      { "type": "image", "src": "", "alt": "Project content library" },
+      { "type": "image", "src": "", "alt": "Site event coverage" },
+      { "type": "video", "src": "", "alt": "Walkthrough film cuts" }
+    ],
+    "results": [
+      { "value": 30, "suffix": "+", "label": "Real estate clients trust us for content", "decimals": 0 },
+      { "value": 3, "suffix": "", "label": "Services under one retainer, content, social, leads", "decimals": 0 }
+    ],
+    "testimonial": null
+  }
+]

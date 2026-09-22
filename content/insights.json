@@ -1,0 +1,226 @@
+[
+  {
+    "slug": "before-its-seen",
+    "title": "Before It's Seen: Why invisible work wins",
+    "category": "Strategy",
+    "date": "Sep 12, 2026",
+    "readTime": "6 min read",
+    "excerpt": "The best marketing happens behind the curtain. Here's why the work nobody sees is the work that moves the market.",
+    "cover": "linear-gradient(135deg, #C10801 0%, #F16001 55%, #D9C3AB 100%)",
+    "author": { "name": "Maya Okafor", "role": "Founder & Executive Creative Director" },
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A campaign that wins an award was usually solved months before anyone clapped. The insight beneath it, the founder pitch that got killed, the forty versions that died quietly in Figma. That's the work. It just doesn't get the screen time."
+      },
+      {
+        "type": "paragraph",
+        "text": "Great marketing is felt before it's seen. The market doesn't applaud your process; it responds to a feeling that was shaped by it. If the invisible work, research, restraint, repetition, isn't there, the visible work reads thin."
+      },
+      {
+        "type": "heading",
+        "text": "The advantage of doing the unseen part well"
+      },
+      {
+        "type": "paragraph",
+        "text": "Every brand can buy attention. Very few are ready to hold it, because holding attention requires something to stand behind the first impression. That something is built in prep, in the weeks nobody is looking."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Strategy compresses risk before the budget expands.",
+          "Craft survives the moment attention gets cheap.",
+          "Repeatability beats the single hero hit."
+        ]
+      },
+      {
+        "type": "quote",
+        "text": "The launch is the easiest part. It's the withdrawal of the invisible work that makes launches feel empty."
+      },
+      {
+        "type": "paragraph",
+        "text": "At Black Screen Media, 'Before It's Seen' isn't just a slogan; it's the sequencing. We do the unglamorous part first, on schedule, without applause. The visible work then has a spine nobody can copy."
+      }
+    ]
+  },
+  {
+    "slug": "gradient-culture",
+    "title": "The gradient is not a trend",
+    "category": "Design",
+    "date": "Aug 28, 2026",
+    "readTime": "4 min read",
+    "excerpt": "From album covers to category leaders: why gradient is a signal of boldness, not a passing style.",
+    "cover": "linear-gradient(160deg, #0A0A0A 0%, #F16001 60%, #E85002 100%)",
+    "author": { "name": "Iris Lindqvist", "role": "Design Director" },
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Every few years someone declares the gradient dead. It never is. What dies is lazy gradients, the ones applied as decoration instead of as a point of view."
+      },
+      {
+        "type": "heading",
+        "text": "Why it keeps coming back"
+      },
+      {
+        "type": "paragraph",
+        "text": "A gradient is a refusal to choose one truth. It says the brand is in motion, that identity is a range rather than a single point. Big categories, whose visual language is usually beige consensus, immediately read that as a threat."
+      },
+      {
+        "type": "list",
+        "items": [
+          "It signals ambition in a flat-crowded feed.",
+          "It converts brand warmth without illustration.",
+          "It scales from a favicon to a billboard."
+        ]
+      },
+      {
+        "type": "quote",
+        "text": "A good gradient doesn't decorate the layout. It is the strategy, drawn."
+      }
+    ]
+  },
+  {
+    "slug": "motion-as-language",
+    "title": "Treat motion as a language, not a layer",
+    "category": "Motion",
+    "date": "Jul 30, 2026",
+    "readTime": "5 min read",
+    "excerpt": "The brand of the next decade will be defined by how it moves, not just how it looks.",
+    "cover": "linear-gradient(200deg, #F16001 0%, #C10801 60%, #D9C3AB 120%)",
+    "author": { "name": "Dane Calloway", "role": "Head of Motion" },
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Most brands treat motion as a garnish: a favorite video clip dropped into a page at the last moment. That's not motion. That's a sticker."
+      },
+      {
+        "type": "heading",
+        "text": "A motion language has rules"
+      },
+      {
+        "type": "paragraph",
+        "text": "A real motion language defines easing, timing, and hierarchy the way a type system defines fonts and spacing. When every screen on every channel moves with the same grammar, users start to recognize the brand by its feel, not its logo."
+      },
+      {
+        "type": "list",
+        "items": [
+          "One easing curve, applied absolutely everywhere.",
+          "Movement that answers the question: why is this moving?",
+          "Reduced-motion treated as a first-class state, not an afterthought."
+        ]
+      },
+      {
+        "type": "quote",
+        "text": "When a user can recognize you with the logo turned off, you've stopped decorating and started speaking."
+      }
+    ]
+  },
+  {
+    "slug": "content-as-systems",
+    "title": "Stop making content. Start making content systems.",
+    "category": "Content",
+    "date": "Jun 18, 2026",
+    "readTime": "7 min read",
+    "excerpt": "Posting more isn't a strategy. The brands that win publish a point of view, every day, from a system that doesn't collapse.",
+    "cover": "linear-gradient(120deg, #D9C3AB 0%, #E85002 70%, #0A0A0A 100%)",
+    "author": { "name": "Theo Marchetti", "role": "Director of Content" },
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The most common brief we receive is 'we need more content.' The most useful question we ask back is 'why should anyone care?' Until the second question has an answer, more content is more noise at a negotiable price."
+      },
+      {
+        "type": "heading",
+        "text": "Systems beat calendars"
+      },
+      {
+        "type": "paragraph",
+        "text": "A calendar is a list of deadlines. A system is a set of recurring decisions that produce output without a weekly firefight: who owns the point of view, what evidence feeds it, how it gets cut per channel, and how it recycles."
+      },
+      {
+        "type": "list",
+        "items": [
+          "A documented opinion the brand will defend.",
+          "A weekly cadence of evidence-gathering, not content-minecraft.",
+          "Channel-native cuts of a single core idea."
+        ]
+      },
+      {
+        "type": "quote",
+        "text": "Consistency isn't posting every day. It's being recognizable on the days you do."
+      }
+    ]
+  },
+  {
+    "slug": "campaigns-that-pay",
+    "title": "Campaigns that pay for themselves",
+    "category": "Marketing",
+    "date": "May 22, 2026",
+    "readTime": "5 min read",
+    "excerpt": "Brand work and performance work stopped fighting. Here's how the launches that convert are structured.",
+    "cover": "linear-gradient(210deg, #C10801 0%, #0A0A0A 60%, #F16001 100%)",
+    "author": { "name": "Ravi Chandran", "role": "Principal, Growth" },
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "For a decade, 'brand' and 'performance' were treated as rival religions inside marketing departments. The launches that actually pay for themselves ignore the schism entirely."
+      },
+      {
+        "type": "heading",
+        "text": "The structure that converts"
+      },
+      {
+        "type": "paragraph",
+        "text": "Top-of-funnel attention and bottom-of-funnel conversion are two ends of the same equation. A launch brief that lists both, the impression goal and the payback window, forces the creative to carry commercial weight instead of just aesthetic ambition."
+      },
+      {
+        "type": "list",
+        "items": [
+          "One idea, cut for reach, cut for response.",
+          "Media structured so frequency builds memory, not annoyance.",
+          "Measurement loop closed inside 30 days."
+        ]
+      },
+      {
+        "type": "quote",
+        "text": "The best campaign is the one your CFO quotes in a board meeting without being prompted."
+      }
+    ]
+  },
+  {
+    "slug": "research-before-charm",
+    "title": "Research before charm",
+    "category": "Research",
+    "date": "Apr 15, 2026",
+    "readTime": "6 min read",
+    "excerpt": "Audiences forgive a lot when a brand understands them. Research is what turns guesswork into gravity.",
+    "cover": "linear-gradient(230deg, #F16001 0%, #E85002 55%, #D9C3AB 100%)",
+    "author": { "name": "Maya Okafor", "role": "Founder & Executive Creative Director" },
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Charm is the polish on top of understanding. Polish without understanding reads as manipulation. The fastest way to build a brand that feels inevitable is to do the unglamorous research that most competitors skip entirely."
+      },
+      {
+        "type": "heading",
+        "text": "What research actually buys you"
+      },
+      {
+        "type": "paragraph",
+        "text": "It buys you the right problem. Most creative briefs fail upstream; they solve the wrong tension beautifully. A short, sharp research loop (customer interviews, category reads, testing) costs a fraction of what a wrong direction costs."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Interviews that find the words customers use, then steal them.",
+          "Category reads that expose what everyone assumes and nobody checks.",
+          "Cheap tests that fail fast before the expensive production starts."
+        ]
+      },
+      {
+        "type": "quote",
+        "text": "In the room where it happens, the strategy is the luck."
+      }
+    ]
+  }
+]
